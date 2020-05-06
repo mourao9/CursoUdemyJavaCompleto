@@ -1,6 +1,6 @@
 package entities;
 
-public abstract class Conta {
+public class Conta {
 	private String nConta;
 	private String titular;
 	protected double saldo;
